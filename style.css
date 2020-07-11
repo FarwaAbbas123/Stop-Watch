@@ -1,0 +1,51 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.pheli{
+    margin-left: 540px;
+    margin-top:  90px;
+    width: 280px;
+    height: 240px;
+    background-color: #ff4da6;
+    border-radius: 50%;
+   
+}
+
+.h{
+    margin-top: 50px;
+    color:  #ff4da6;
+    font-weight: bolder;
+    font-size: 15000;
+    font-weight: 1000;
+    text-shadow: 3px 2px 3px  grey;
+}
+
+.btn{
+    
+    border-radius: 50%;
+    background-color: #ff4da6;
+    width: 80px;
+    height: 70px;
+}
+
+.dusri{
+    margin-top: 50px;
+    margin-left: 560px;
+}
+
+h2{
+
+margin-left: 30px;
+margin-top: 80px;
+    display: inline-block;
+   
+    background-color: white;
+   
+     width: 45px;
+     height: 30px;
+  padding-left: 8px;
+}
